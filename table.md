@@ -1,0 +1,5 @@
+| source | license | tested | readme | preview |
+|---|---|---|---|---|
+| [chaiNNer](//github.com/chaiNNer-org/chaiNNer) | ![](https://img.shields.io/github/license/chaiNNer-org/chaiNNer?label=&style=flat-square) | [![](https://img.shields.io/github/last-commit/scillidan/chaiNNer/main?label=&style=flat-square)](//github.com/scillidan/chaiNNer) | [.md](_readme/chainner.md) | ![](_media/chainner.png) |
+| [FotoKilof](//github.com/TeaM-TL/FotoKilof) | ![](https://img.shields.io/github/license/TeaM-TL/FotoKilof?label=&style=flat-square) | [![](https://img.shields.io/github/last-commit/scillidan/FotoKilof/main?label=&style=flat-square)](//github.com/scillidan/FotoKilof) | [.md](_readme/fotokilof.md) | ![](_media/fotokilof.png) |
+| [imagepy](//github.com/Image-Pyimagepy/imagepy) | ![](https://img.shields.io/github/license/Image-Pyimagepy/imagepy?label=&style=flat-square) | [![](https://img.shields.io/github/last-commit/scillidan/imagepy/main?label=&style=flat-square)](//github.com/scillidan/imagepy) | [.md](_readme/imagepy.md) | ![](_media/imagepy.png) |
